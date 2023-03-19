@@ -1,0 +1,11 @@
+.icons {
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    color: var(--text-color);
+    font-size: "24px";
+    z-index: 1;
+}
+i {
+    margin-right: 10px;
+}

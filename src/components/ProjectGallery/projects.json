@@ -1,0 +1,36 @@
+[
+    {
+        "id": "1",
+        "title": "Bootstrap-Portfolio",
+        "image": "./boot.jpg",
+        "description": "This project I have used bootstrap to build my portfolio.",
+        "github": "https://github.com/AliSuleym/Bootstrap-Portfolio",
+        "deployed": "https://alisuleym.github.io/Bootstrap-Portfolio/"
+    },
+    {
+        "id": "2",
+        "title": "Work day scheduler",
+        "image": "./wheather.jpg",
+        "technologies": "This workday planner was created with jQuery and Bootstrap. It displays the current date and time, saves user-inputted events, and employs color coding to distinguish between past, present, and future events.",
+        "github": "https://github.com/AliSuleym/work-day-scheduler",
+        "deployed": "https://alisuleym.github.io/work-day-scheduler/"
+    },
+    {
+        "id": "3",
+        "title": "Team-Profile-Generator",
+        "image": "./team.jpg",
+        "description": "The task is to create a Node.js command-line application that collects information about software engineering team members and then generates an HTML webpage with summaries for each person.",
+        "github": "https://github.com/AliSuleym/Team-Profile-Generator",
+        "deployed": "https://alisuleym.github.io/Team-Profile-Generator/"
+    },
+    {
+        "id": "4",
+        "title": "Web APIs Code Quiz",
+        "image": "./quiz.jpg",
+        "description": "The task is to create an interactive quiz that stores user responses in order to calculate a final score, and to allow them to input their initials and total their scores, which would then be displayed on a separate 'highscores' page.",
+        "github": "https://github.com/AliSuleym/Web-APIs-Code-Quiz",
+        "deployed": "https://alisuleym.github.io/Web-APIs-Code-Quiz/"
+    }
+    
+    
+]

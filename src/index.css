@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Roboto&display=swap');
+
+
+:root {
+  --bg-color: #fff;
+  --hl-color: #000;
+  --text-color: #000;
+  --grey: #9f9f9f76;
+  --light-grey: #eae8e893;
+  --spacing: 50px;
+  --sm-spacing: 30px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  background-color: var(--bg-color);
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+::selection {
+  background-color: var(--hl-color);
+  color: var(--text-color);
+}
+.pageTitle {
+  padding: 10px;
+  color: var(--text-color);
+  font-size: 36px;
+  border-bottom: 3px solid var(--hl-color);
+}
+
+.pageDescription {
+  padding-left: 10px;
+  color: #000;
+  font-size: 14px;
+}
+
+.btn {
+  color: #fff;
+  background-color: #3042ed;
+  border: none;
+  font-size: 14px;
+  padding: 12px var(--sm-spacing);
+  border-radius: 15px;
+  margin-top: 10px;
+  margin-right:10px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #1f68b0;
+  color: var(--text-color);
+}
+
+header {
+  padding: var(--sm-spacing) var(--spacing);
+  color: var(--text-color);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 10px;
+}

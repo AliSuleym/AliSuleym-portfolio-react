@@ -1,0 +1,63 @@
+.about {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: var(--spacing);
+}
+  
+.personalImage {
+    display: flex;
+    justify-content: center;
+    margin-bottom: var(--spacing);
+}
+  
+.personalImage img {
+    height: 250px;
+    padding: 10px;
+    border-radius: 20px;
+    border: 1px solid var(--grey);
+}
+  
+.contentContainer h5 {
+    color: var(--text-color);
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+  
+.contentDescription {
+    color: #000;
+}
+  
+.infoContainer {
+    border-top: 1px solid var(--grey);
+    margin-top: 20px;
+    padding-top: 20px;
+}
+  
+.infoContainer span {
+    color: var(--text-color);
+}
+  
+.infoContainer p {
+    color: #000;
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+  
+.buttonContainer a {
+    align-items: center;
+    color: var(--text-color);
+}
+  
+.buttonContainer a:hover {
+    color: var(--text-color);
+}
+.downloadResume {
+    margin-top: var(--sm-spacing);
+    margin-bottom: var(--sm-spacing);
+}
+  
+  
+  
+  

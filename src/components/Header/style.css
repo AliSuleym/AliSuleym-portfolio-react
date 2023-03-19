@@ -1,0 +1,15 @@
+.active {
+    background-color: var(--light-grey) !important;
+    background: var(--light-grey) !important;
+    color: var(--text-color) !important;
+}
+
+.active:hover {
+    background-color: var(--grey) !important;
+    background: var(--grey) !important;
+    color: var(--text-color) !important;
+}
+
+.nav-tabs {
+    justify-content: flex-end;
+}
