@@ -12,9 +12,7 @@ This portfolio is the initial scaffolding for this challenge, using React and Fr
     * [ ] GitHub Profile
     * [ ] LinkedIn Page
     * [ ] Email Address
-    * [ ] Phone Number - (optional)
-    * [ ] PDF version of your resume
-      * Resume **contains** up-to-date projects and professional experience
+    * [ ] Phone Number - (optional)   
     * [ ] A list of projects (Challenges or Projects). For each project, the following are included:
       * [ ] Project title
       * [ ] Link to the deployed version
