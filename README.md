@@ -62,6 +62,8 @@ This portfolio is the initial scaffolding for this challenge, using React and Fr
      * [ ] CLear indication that this is a portfolio site
      ## Screenshots
 The following image shows the landing/Home page:
+![scrennshot](https://user-images.githubusercontent.com/116298145/226206442-26e561b9-f478-4749-9470-07ce6d873fc8.jpg)
+
 
 ## Contributions
 If you would like to contribute to this project, please contact me via email with your ideas.
